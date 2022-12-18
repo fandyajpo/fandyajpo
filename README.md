@@ -9,11 +9,9 @@
 <br>
 
 ## Introduction ✨
-
 Hi Fandy
 
-## Tech stack 🚀
-
+## Inside Me
 - Javascript
 - Typescript
 - React Native
