@@ -9,7 +9,7 @@
 <br>
 
 ## Introduction ✨
-Hi Fandy
+Hi Fandy, how are you today Fandy
 
 ## Inside Me
 - Javascript
