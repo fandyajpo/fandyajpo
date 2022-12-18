@@ -2,7 +2,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fandyajpo&layout=compact)](https://github.com/fandyajpo/github-readme-stats) -->
 
 <div align="center">
-  <h1>INSTIKI Developer Club ⚡</h1>
+<!--   <h1>INSTIKI Developer Club ⚡</h1> -->
   <h3>Developer Grow Here | Devisi Web Developer</h3>
 </div>
 
