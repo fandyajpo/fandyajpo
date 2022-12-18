@@ -3,7 +3,7 @@
 
 <div align="center">
 <!--   <h1>INSTIKI Developer Club ⚡</h1> -->
-  <h3>Developer Grow Here | Devisi Web Developer</h3>
+<!--   <h3>Developer Grow Here | Devisi Web Developer</h3> -->
 </div>
 
 <br>
