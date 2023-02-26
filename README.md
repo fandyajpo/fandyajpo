@@ -13,6 +13,5 @@ Hi Fandy, how are you today Fandy
 
 ## Inside Me
 - Javascript/Typescript
-- low knowledge about golang :(
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=fandyajpo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
