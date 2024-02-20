@@ -6,7 +6,6 @@
 <!--   <h3>Developer Grow Here | Devisi Web Developer</h3> -->
 </div>
 <br>
-## Introduction ✨
 NERD, NERD, NERDY BIRDY
 fandyglitch3@gmail.com
  
