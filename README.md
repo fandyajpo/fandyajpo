@@ -5,18 +5,12 @@
 <!--   <h1>INSTIKI Developer Club ⚡</h1> -->
 <!--   <h3>Developer Grow Here | Devisi Web Developer</h3> -->
 </div>
-
 <br>
-
 ## Introduction ✨
-Hi Fandy, how are you today Fandy
+NERD, NERD, NERDY BIRDY
 fandyglitch3@gmail.com
-
-## Love
-- Javascript/Typescript
-
-## Learn
-- Docker
+ 
+ 
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=fandyajpo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 -->
